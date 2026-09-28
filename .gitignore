@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+# per-frame captures (assembled clips in public/report/walk/*.webp are kept)
+public/report/walk/*/
+# local-only comparison page that shows Antony Gormley's copyrighted photographs
+public/report/compare.html
+public/report/review.html

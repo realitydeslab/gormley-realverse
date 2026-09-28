@@ -1,0 +1,427 @@
+{
+ "big-stone-blockworks": {
+  "verdict": "close",
+  "match": "Stacked granite blocks, one per mass, figure legible.",
+  "gap": "Reference leans into a wall corner; ours stands free."
+ },
+ "big-double-clay-slabworks": {
+  "verdict": "partial",
+  "match": "Pink clay slabs in doubled layers.",
+  "gap": "Reference is a low reclining cluster; ours reads as an upright figure."
+ },
+ "big-double-blockworks": {
+  "verdict": "partial",
+  "match": "Orange blocks, two overlaid decompositions.",
+  "gap": "Reference has many more small offset blocks; ours is too smooth."
+ },
+ "bunkers": {
+  "verdict": "partial",
+  "match": "Pale concrete blocks, crouched mass.",
+  "gap": "The dark head aperture is hidden in the crouch; reference is more architectural."
+ },
+ "extended-strapworks": {
+  "verdict": "close",
+  "match": "Orthogonal strap loops leaving the body and returning.",
+  "gap": "Reference loops are larger and land on the floor."
+ },
+ "knotworks": {
+  "verdict": "partial",
+  "match": "Tight orthogonal square-bar loops.",
+  "gap": "Reference knot is denser and more compact."
+ },
+ "cast-framers": {
+  "verdict": "close",
+  "match": "Tilted cube frames stacked into a figure.",
+  "gap": "Reference is a single thin column of cubes."
+ },
+ "blockworks-wrestling-with-modernism": {
+  "verdict": "weak",
+  "match": "Few large Corten blocks.",
+  "gap": "Reference is compressed into one cube-like mass; ours is still a standing figure."
+ },
+ "big-assembled-blockworks": {
+  "verdict": "partial",
+  "match": "Tall stack of large iron blocks.",
+  "gap": "Reference blocks are paler grey and much larger per course."
+ },
+ "strapworks": {
+  "verdict": "close",
+  "match": "Flat Corten strap folded orthogonally through the body.",
+  "gap": "Reference strap is one continuous line with more even spacing."
+ },
+ "weave-works": {
+  "verdict": "close",
+  "match": "Fine bars woven in alternating courses.",
+  "gap": "Reference weave is denser and more regular."
+ },
+ "aggregate-blockworks": {
+  "verdict": "partial",
+  "match": "Fine aggregate of rust blocks.",
+  "gap": "Reference posture is bent double; ours stands."
+ },
+ "double-blockworks": {
+  "verdict": "partial",
+  "match": "Two overlaid block decompositions.",
+  "gap": "Reference is a tall thin column; ours is broader."
+ },
+ "clay-works": {
+  "verdict": "partial",
+  "match": "Rolled clay sausages in fired pink.",
+  "gap": "Reference is a tight heap; ours is spread out."
+ },
+ "rooter": {
+  "verdict": "close",
+  "match": "The figure drawn once in square bar, arms out.",
+  "gap": "Reference bars are thicker and fully orthogonal."
+ },
+ "branchers": {
+  "verdict": "weak",
+  "match": "Orthogonal branches sprouting from strands.",
+  "gap": "Ours is too sparse to read as a figure."
+ },
+ "run": {
+  "verdict": "close",
+  "match": "Large steel loops standing in the room; the figure walks through them.",
+  "gap": "Reference loops are one continuous line."
+ },
+ "constructed-slabworks": {
+  "verdict": "partial",
+  "match": "Dark iron slabs.",
+  "gap": "Reference is a low reclining arrangement; ours is upright."
+ },
+ "bubble-works": {
+  "verdict": "close",
+  "match": "Wire rings packed into the body.",
+  "gap": "Reference rings are larger and fewer."
+ },
+ "cast-liners": {
+  "verdict": "partial",
+  "match": "Square-bar lines in a lying figure.",
+  "gap": "Reference is long and flat; ours is a compact cluster."
+ },
+ "cast-slabworks": {
+  "verdict": "partial",
+  "match": "Rusted slabs.",
+  "gap": "Reference sits low on the floor; ours is taller."
+ },
+ "mined-gridworks": {
+  "verdict": "close",
+  "match": "Thin grid with welded nodes.",
+  "gap": "Reference nodes are more prominent."
+ },
+ "lead-blockworks": {
+  "verdict": "partial",
+  "match": "Grey lead blocks, crouched.",
+  "gap": "Reference is four small separate block groups."
+ },
+ "extrusions": {
+  "verdict": "partial",
+  "match": "Few long blocks along the body axis, lying.",
+  "gap": "Reference extrusions are longer and more regular."
+ },
+ "big-beamers": {
+  "verdict": "close",
+  "match": "Steel beams in alternating courses on three axes.",
+  "gap": "Reference beams are longer and cleaner."
+ },
+ "open-blockworks": {
+  "verdict": "partial",
+  "match": "Open frames with some closed faces.",
+  "gap": "Reference is darker and denser."
+ },
+ "co-ordinate": {
+  "verdict": "close",
+  "match": "Three thin lines along the room axes cross at the figure.",
+  "gap": "Reference has no figure; lines run wall to wall."
+ },
+ "grid-works": {
+  "verdict": "close",
+  "match": "Rust rod grid through the body.",
+  "gap": "Reference is slightly denser."
+ },
+ "scaffold": {
+  "verdict": "close",
+  "match": "Rods overshooting the body.",
+  "gap": "Reference overshoot is longer."
+ },
+ "small-blockworks": {
+  "verdict": "close",
+  "match": "Small block figure in a large room.",
+  "gap": "Matches well."
+ },
+ "big-blockworks": {
+  "verdict": "close",
+  "match": "About 14 stacked iron blocks.",
+  "gap": "Reference blocks slightly larger and more offset."
+ },
+ "cube-works": {
+  "verdict": "partial",
+  "match": "Tilted cubes forming a crouched mass.",
+  "gap": "Reference pile slumps into a corner."
+ },
+ "station": {
+  "verdict": "close",
+  "match": "Thin frames with some plates.",
+  "gap": "Close."
+ },
+ "tankers": {
+  "verdict": "close",
+  "match": "Few very large dark blocks.",
+  "gap": "Close."
+ },
+ "raised-blockworks": {
+  "verdict": "close",
+  "match": "Tall stacked dark blocks.",
+  "gap": "Reference blocks are more varied."
+ },
+ "plaster-works": {
+  "verdict": "partial",
+  "match": "White plaster blocks.",
+  "gap": "Reference is a chunky pile; ours is too slim."
+ },
+ "cast-expansion-works": {
+  "verdict": "weak",
+  "match": "Swollen iron body.",
+  "gap": "Reference is huge stacked blocks, not a smooth swelling."
+ },
+ "proppers": {
+  "verdict": "close",
+  "match": "Corten frames and plates.",
+  "gap": "Close."
+ },
+ "liners": {
+  "verdict": "close",
+  "match": "Thin black line figure with lines leaving it.",
+  "gap": "Reference lines reach the walls."
+ },
+ "double-extended-memes": {
+  "verdict": "partial",
+  "match": "Small figure with long bars.",
+  "gap": "Reference is two figures joined by a bar."
+ },
+ "massive-blockworks": {
+  "verdict": "partial",
+  "match": "Massive dark blocks.",
+  "gap": "Reference leans more."
+ },
+ "constructed-beamers": {
+  "verdict": "partial",
+  "match": "Grey beams with open gaps.",
+  "gap": "Reference is denser and chunkier."
+ },
+ "extended-blockworks": {
+  "verdict": "close",
+  "match": "Block figure with long beams leaving it.",
+  "gap": "Close."
+ },
+ "hermitage-blockworks": {
+  "verdict": "close",
+  "match": "Short rusted bars with jittered ends.",
+  "gap": "Close."
+ },
+ "cast-beamers": {
+  "verdict": "partial",
+  "match": "Cast rust beams.",
+  "gap": "Reference is much denser and orange."
+ },
+ "framers": {
+  "verdict": "close",
+  "match": "Overlapping black wire boxes.",
+  "gap": "Close."
+ },
+ "memes": {
+  "verdict": "close",
+  "match": "Small lying block figure.",
+  "gap": "Close."
+ },
+ "aperture": {
+  "verdict": "partial",
+  "match": "Polyhedral cells round the body.",
+  "gap": "Reference cells are larger and more open."
+ },
+ "polyhedra-works": {
+  "verdict": "partial",
+  "match": "Faceted rust surface.",
+  "gap": "Reference is hung upside down; ours stands."
+ },
+ "net-polyhedra-works": {
+  "verdict": "partial",
+  "match": "Net of polygon cells on the skin.",
+  "gap": "Reference net floats in an acrobatic pose."
+ },
+ "quantum-void": {
+  "verdict": "close",
+  "match": "Short bars round the body, none inside.",
+  "gap": "Close."
+ },
+ "ataxia": {
+  "verdict": "close",
+  "match": "Rust and grey blocks mixed.",
+  "gap": "Close."
+ },
+ "drift": {
+  "verdict": "partial",
+  "match": "Cells drifting off the body.",
+  "gap": "Reference cloud is far larger and denser."
+ },
+ "open-expansion-works": {
+  "verdict": "partial",
+  "match": "Net swollen away from the skin.",
+  "gap": "Reference expansion is larger."
+ },
+ "constructed-ataxia": {
+  "verdict": "close",
+  "match": "Grey steel blocks.",
+  "gap": "Close."
+ },
+ "hive": {
+  "verdict": "partial",
+  "match": "Dense small cells.",
+  "gap": "Reference is a large cloud around the body."
+ },
+ "cast-blockworks": {
+  "verdict": "partial",
+  "match": "Loose 4–8 cm rust blocks.",
+  "gap": "Reference is lying flat."
+ },
+ "feeling-material": {
+  "verdict": "partial",
+  "match": "Wire loops round each limb.",
+  "gap": "Reference loops are far denser and wider."
+ },
+ "blockworks": {
+  "verdict": "close",
+  "match": "Dense small iron blocks.",
+  "gap": "Close."
+ },
+ "under-my-skin": {
+  "verdict": "partial",
+  "match": "Needles through the body.",
+  "gap": "First reference image is a dark textured body; the needle works match better."
+ },
+ "early-blockworks": {
+  "verdict": "close",
+  "match": "Green-black blocks bristling from the skin.",
+  "gap": "Close."
+ },
+ "transfusers": {
+  "verdict": "close",
+  "match": "Fine net over a lying body.",
+  "gap": "Close."
+ },
+ "ball-works": {
+  "verdict": "close",
+  "match": "Body covered in iron balls, curled.",
+  "gap": "Close."
+ },
+ "domain": {
+  "verdict": "close",
+  "match": "Short black bars joining points inside the body.",
+  "gap": "Close."
+ },
+ "quantum-cloud": {
+  "verdict": "close",
+  "match": "Dense steel-bar core with a halo.",
+  "gap": "Close."
+ },
+ "insiders": {
+  "verdict": "partial",
+  "match": "Body eroded toward its core.",
+  "gap": "Reference is far thinner."
+ },
+ "cage-works": {
+  "verdict": "close",
+  "match": "Wire hoops and meridians round the body.",
+  "gap": "Close."
+ },
+ "expansion-works": {
+  "verdict": "partial",
+  "match": "Body inflated into a smooth mass.",
+  "gap": "Reference is rounder and heavier."
+ },
+ "concrete-works": {
+  "verdict": "weak",
+  "match": "A concrete block around the body.",
+  "gap": "Body voids barely show; reference is a T-shaped block with visible hollows."
+ },
+ "a-case-for-an-angel": {
+  "verdict": "close",
+  "match": "Figure with a wide horizontal wing slab.",
+  "gap": "Close."
+ },
+ "pierced-lead-works": {
+  "verdict": "partial",
+  "match": "Lead case with a pipe.",
+  "gap": "Reference is a smooth lying body; ours is lumpier."
+ },
+ "double-bodycase-works-in-lead-and-cast-iron": {
+  "verdict": "partial",
+  "match": "Lead case with seams, curled.",
+  "gap": "Reference is two nested curled bodies."
+ },
+ "box-works": {
+  "verdict": "weak",
+  "match": "Lead boxes.",
+  "gap": "Interpretation: reference is small boxes with objects, not a figure.",
+  "interpretation": true
+ },
+ "suspended-and-gravity-works": {
+  "verdict": "partial",
+  "match": "Lead figure with a wooden beam.",
+  "gap": "Reference figure is suspended against a wall."
+ },
+ "extended-works": {
+  "verdict": "close",
+  "match": "Cast figure with a long rod from the head.",
+  "gap": "Close."
+ },
+ "hermetic-lead-bodycase": {
+  "verdict": "close",
+  "match": "Standing lead case with seams.",
+  "gap": "Close."
+ },
+ "early-single-lead-bodycase-works": {
+  "verdict": "close",
+  "match": "Crouched lead case.",
+  "gap": "Close."
+ },
+ "three-part-lead-bodycase-works": {
+  "verdict": "partial",
+  "match": "Lead case cut into three parts.",
+  "gap": "Reference parts are separated on the floor."
+ },
+ "terracotta-and-lead-works": {
+  "verdict": "partial",
+  "match": "Lying lead figure with a terracotta house.",
+  "gap": "Interpretation; the house is a simple block.",
+  "interpretation": true
+ },
+ "man-rock-and-planets": {
+  "verdict": "partial",
+  "match": "Pale rock with a curled body inside.",
+  "gap": "Reference is carved stone; ours is too smooth."
+ },
+ "blanket-drawings": {
+  "verdict": "weak",
+  "match": "Flattened body on a blanket.",
+  "gap": "Reference is a 2D stain on fabric."
+ },
+ "object-works": {
+  "verdict": "weak",
+  "match": "Each limb as a separate object.",
+  "gap": "Interpretation: reference is a group of objects, not a body.",
+  "interpretation": true
+ },
+ "natural-selection": {
+  "verdict": "weak",
+  "match": "Objects dropped along the walking path.",
+  "gap": "Interpretation; the row only appears after walking.",
+  "interpretation": true
+ },
+ "room-series": {
+  "verdict": "weak",
+  "match": "A square traced on the floor round the figure.",
+  "gap": "Interpretation of a room-scale work.",
+  "interpretation": true
+ }
+}

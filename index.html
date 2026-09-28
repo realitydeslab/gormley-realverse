@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Inextricable — digital study</title>
+	<style>
+		:root { --ink: #262422; --mute: #77726a; --line: rgba(38,36,34,.16); --paper: rgba(250,249,246,.72); }
+		html, body { margin: 0; height: 100%; overflow: hidden; background: #ecebe8; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: var(--ink); }
+		canvas { display: block; cursor: crosshair; }
+		#label { position: fixed; left: 28px; bottom: 24px; pointer-events: none; max-width: 46vw; }
+		#label .kicker { font-size: 10px; letter-spacing: .24em; color: var(--mute); margin-bottom: 10px; }
+		#label .title { font-size: 15px; letter-spacing: .14em; font-weight: 600; }
+		#label .title span { font-weight: 400; letter-spacing: .08em; color: var(--mute); }
+		#label .series { font-size: 12px; font-style: italic; margin-top: 6px; line-height: 1.5; }
+		#label .meta { font-size: 11px; color: var(--mute); margin-top: 4px; letter-spacing: .04em; }
+		#panel { position: fixed; right: 18px; top: 18px; width: 300px; max-height: calc(100vh - 36px); overflow-y: auto; background: var(--paper); backdrop-filter: blur(6px); border: 1px solid var(--line); padding: 12px 12px 8px; }
+		#panel h3 { font-size: 9px; letter-spacing: .22em; color: var(--mute); font-weight: 500; margin: 10px 0 6px; text-transform: uppercase; }
+		#panel h3:first-child { margin-top: 0; }
+		.row { display: flex; flex-wrap: wrap; gap: 3px; }
+		button { font: inherit; font-size: 9.5px; letter-spacing: .1em; padding: 5px 7px; background: transparent; border: 1px solid var(--line); color: var(--ink); cursor: pointer; text-transform: uppercase; }
+		button:hover { border-color: var(--ink); }
+		button.on { background: var(--ink); color: #f1efeb; border-color: var(--ink); }
+		#hint { position: fixed; left: 28px; top: 22px; font-size: 11px; letter-spacing: .06em; color: var(--mute); line-height: 1.75; pointer-events: none; }
+		#toggle { position: fixed; right: 18px; top: 18px; display: none; }
+		@media (max-width: 720px) { #panel { width: auto; left: 12px; right: 12px; top: auto; bottom: 12px; max-height: 42vh; } #label { bottom: auto; top: 16px; max-width: 80vw; } #hint { display: none; } }
+	</style>
+</head>
+<body>
+	<div id="hint">click the figure — it turns into another work, from that point<br>click the floor — it walks there<br>drag — look around · ← → — previous / next</div>
+	<div id="panel"></div>
+	<div id="label">
+		<div class="kicker">INEXTRICABLE — A DIGITAL STUDY AFTER ANTONY GORMLEY</div>
+		<div class="title" id="title"></div>
+		<div class="series" id="series"></div>
+		<div class="meta" id="meta"></div>
+	</div>
+	<script type="module" src="/src/main.js"></script>
+</body>
+</html>
